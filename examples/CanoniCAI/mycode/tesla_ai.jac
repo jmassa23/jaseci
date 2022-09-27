@@ -1,4 +1,4 @@
-import {*} with "./faq.jac"
+import {*} with "./faq.jac";
 
 node dialogue_state:cai_state {
     can bi_enc.infer;
